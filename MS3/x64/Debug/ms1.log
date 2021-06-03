@@ -1,0 +1,10 @@
+﻿  CustomerOrder.cpp
+C:\Users\adele\Downloads\OOP345\OOP-Project-master_Li\MS3\CustomerOrder.cpp(28,27): warning C4267:  '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  LineManager.cpp
+  ms3.cpp
+  Station.cpp
+  Utilities.cpp
+  Workstation.cpp
+  Generating Code...
+C:\Users\adele\Downloads\OOP345\OOP-Project-master_Li\MS3\CustomerOrder.cpp(95,65): warning C4267:  '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  ms1.vcxproj -> C:\Users\adele\Downloads\OOP345\OOP-Project-master_Li\MS3\x64\Debug\ms1.exe
