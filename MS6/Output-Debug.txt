@@ -1,0 +1,12 @@
+﻿'MS6.exe' (Win32): Loaded 'C:\Users\adele\Downloads\OOP-Project-master-Li\MS6\Debug\MS6.exe'. Symbols loaded.
+'MS6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'MS6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'MS6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'MS6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'MS6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'MS6.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x2728 has exited with code 0 (0x0).
+The thread 0x1110 has exited with code -1073741510 (0xc000013a).
+The thread 0x898c has exited with code -1073741510 (0xc000013a).
+The thread 0x3380 has exited with code -1073741749 (0xc000004b).
+The program '[22884] MS6.exe' has exited with code -1073741510 (0xc000013a).
